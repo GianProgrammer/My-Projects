@@ -1,0 +1,3 @@
+En esta clase comprendemos la idea de tipo de dato abstracto.
+
+En el TDA, quien utilice las funciones llamadas "primitivas", ha de no saber que estructura posee el dato. Simplemente las utiliza para sus fines.
