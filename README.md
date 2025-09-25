@@ -1,1 +1,1 @@
-# My Projects 😊
+# My Projects
